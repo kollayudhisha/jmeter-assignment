@@ -1,0 +1,68 @@
+1.6188E+12,1450,HTTP Request,200,OK,rest request 1-1,text,FALSE,"Value expected to match regexp '', but it did not match: '9223372036854775807'",462,327,1,1,https://petstore.swagger.io/v2/store/order,1440,0,1147
+1.6188E+12,1154,HTTP Request,200,OK,rest request 1-1,text,TRUE,,462,327,1,1,https://petstore.swagger.io/v2/store/order,1153,0,866
+1.6188E+12,1171,HTTP Request,200,OK,rest request 1-1,text,TRUE,,462,327,1,1,https://petstore.swagger.io/v2/store/order,1171,0,884
+1.6188E+12,1222,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1222,0,949
+1.6188E+12,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/,rest request 1-1,text,FALSE,,1111,0,1,1,http:/,0,0,0
+1.6188E+12,1272,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1272,0,971
+1.6188E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 43: https://petstore.swagger.io/v2/store/order/{orderId},rest request 1-1,text,FALSE,,1132,0,1,1,https://petstore.swagger.io/v2/store/order/{orderId},0,0,0
+1.6188E+12,1499,HTTP Request,200,OK,rest request 1-1,text,FALSE,"Value expected to match regexp '', but it did not match: '9223372036854775807'",467,332,1,1,https://petstore.swagger.io/v2/store/order,1499,0,1224
+1.6188E+12,1,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 43: https://petstore.swagger.io/v2/store/order/{orderId},rest request 1-1,text,FALSE,,1132,0,1,1,https://petstore.swagger.io/v2/store/order/{orderId},0,0,0
+1.6188E+12,1149,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1148,0,880
+1.6188E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 43: https://petstore.swagger.io/v2/store/order/{orderId},rest request 1-1,text,FALSE,,1132,0,1,1,https://petstore.swagger.io/v2/store/order/{orderId},0,0,0
+1.6188E+12,1092,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1092,0,823
+1.6188E+12,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 43: https://petstore.swagger.io/v2/store/order/{orderId},rest request 1-1,text,FALSE,,1132,0,1,1,https://petstore.swagger.io/v2/store/order/{orderId},0,0,0
+1.6188E+12,1265,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1265,0,966
+1.6188E+12,293,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,292,0,0
+1.6188E+12,1174,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1174,0,893
+1.6188E+12,283,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,283,0,0
+1.6188E+12,1153,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1153,0,875
+1.6188E+12,275,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,275,0,0
+1.6188E+12,323,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,Expected to find an object with property ['petId'] in path $ but found 'java.lang.String'. This is not a json object according to the JsonProvider: 'com.jayway.jsonpath.spi.json.JsonSmartJsonProvider'.,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,323,0,0
+1.6188E+12,1204,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1204,0,920
+1.6188E+12,282,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,282,0,0
+1.6188E+12,291,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,291,0,0
+1.61881E+12,1171,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1171,0,890
+1.61881E+12,281,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,281,0,0
+1.61881E+12,281,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,281,0,0
+1.61881E+12,1178,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1177,0,874
+1.61881E+12,291,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,290,0,0
+1.61881E+12,294,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,293,0,0
+1.61881E+12,1114,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1114,0,836
+1.61881E+12,279,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,279,0,0
+1.61881E+12,280,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,280,0,0
+1.61881E+12,1272,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1272,0,973
+1.61881E+12,300,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,300,0,0
+1.61881E+12,302,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,302,0,0
+1.61881E+12,1186,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1185,0,885
+1.61881E+12,294,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,293,0,0
+1.61881E+12,297,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,297,0,0
+1.61881E+12,1142,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1141,0,872
+1.61881E+12,271,HTTP Request,200,OK,rest request 1-1,text,TRUE,,465,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,271,0,0
+1.61881E+12,270,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,712,195,1,1,https://petstore.swagger.io/v2%20​/store​/inventory,270,0,0
+1.61881E+12,1052,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1052,0,789
+1.61881E+12,278,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,278,0,0
+1.61881E+12,261,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,709,192,1,1,https://petstore.swagger.io/v2​/store​/inventory,261,0,0
+1.61881E+12,1213,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1213,0,926
+1.61881E+12,284,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,284,0,0
+1.61881E+12,286,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,709,192,1,1,https://petstore.swagger.io/v2​/store​/inventory,286,0,0
+1.61881E+12,1205,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1205,0,926
+1.61881E+12,279,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,279,0,0
+1.61881E+12,303,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,709,192,1,1,https://petstore.swagger.io/v2​/store​/inventory,303,0,0
+1.61881E+12,1073,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1072,0,804
+1.61881E+12,268,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,268,0,0
+1.61881E+12,268,HTTP Request,404,Not Found,rest request 1-1,text,FALSE,,709,192,1,1,https://petstore.swagger.io/v2​/store​/inventory,268,0,0
+1.61881E+12,1182,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1181,0,905
+1.61881E+12,276,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,276,0,0
+1.61881E+12,277,HTTP Request,200,OK,rest request 1-1,text,TRUE,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,276,0,0
+1.61881E+12,1147,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1147,0,855
+1.61881E+12,283,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,283,0,0
+1.61881E+12,283,HTTP Request,200,OK,rest request 1-1,text,TRUE,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,283,0,0
+1.61881E+12,1117,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1116,0,841
+1.61881E+12,277,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,276,0,0
+1.61881E+12,283,HTTP Request,200,OK,rest request 1-1,text,FALSE,No results for path: $['id'],409,174,1,1,https://petstore.swagger.io/v2/store/inventory,275,0,0
+1.61881E+12,1214,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1214,0,926
+1.61881E+12,297,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,297,0,0
+1.61881E+12,289,HTTP Request,200,OK,rest request 1-1,text,TRUE,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,289,0,0
+1.61881E+12,1212,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,332,1,1,https://petstore.swagger.io/v2/store/order,1212,0,929
+1.61881E+12,283,HTTP Request,200,OK,rest request 1-1,text,TRUE,,467,190,1,1,https://petstore.swagger.io/v2/store/order/9223372036854775807,283,0,0
+1.61881E+12,283,HTTP Request,200,OK,rest request 1-1,text,TRUE,,409,174,1,1,https://petstore.swagger.io/v2/store/inventory,282,0,0
